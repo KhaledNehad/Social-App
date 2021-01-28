@@ -1,6 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://khaled:khaled123@socialapp.ehxs6.mongodb.net/SocialApp?retryWrites=true&w=majority",
-  "jwtSecret": "heresecrettoken",
-  "githubClientId": "5568de1492abc6e6faf1",
-  "githubSecret": "4e266da41a44b837f30e639ec9e936b89db66bf7"
-}
